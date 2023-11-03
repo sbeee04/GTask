@@ -1,5 +1,14 @@
 package GUVITASK.GTask4.Exception;
 
+/*
+    Q1. Ramesh is developing a student management system for a university. In thissystem, you have a Student 
+    class to represent student information. You are askedto help Ramesh to handle exception 
+    which can be occurred into programaccording to following Scenarios:
+class Student with attributes roll no, name, age and course. Initialize valuesthrough parameterized constructor.
+    If the age of the student is not between 15 and 21 then generate a user-defined exception "AgeNotWithinRangeException"
+    If a name contains numbers or special symbols, raise exception"NameNotValidException". Define the two exception classes.
+    */
+
 import java.util.Scanner;
 
 public class Student {
