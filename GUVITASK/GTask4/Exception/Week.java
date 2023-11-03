@@ -1,5 +1,11 @@
 package GUVITASK.GTask4.Exception;
 
+/*
+Q3. day exception Store position and name from give of user proper 
+weekdays and message in print an if day array user name. 
+enter (starting day Handle from index array "Sunday" 
+outside index at range 0 index). (0-6)
+*/
 import java.util.Scanner;
 
 public class Week {
