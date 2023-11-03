@@ -1,5 +1,12 @@
 package GUVITASK.GTask4.Collections;
 
+/*
+Q4. Create a HashMap where keys are student names (strings) and values are their
+corresponding grades (integers). Implement functions to add a new student,
+remove a student, and Display up a student's grade by name
+*/
+
+
 import java.util.HashMap;
 import java.util.Scanner;
 
