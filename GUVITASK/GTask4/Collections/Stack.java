@@ -1,4 +1,14 @@
 package GUVITASK.GTask4.Collections;
+
+/*
+Q5. create a stack data structure to store Integers .Create some methods for
+following functionalities
+a. Include functions for pushing elements onto the stack
+b. popping elements from the stack
+c.check the stack is empty or not
+*/
+
+
 // Java code for stack implementation
 
 import java.io.*;
