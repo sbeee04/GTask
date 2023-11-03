@@ -1,6 +1,10 @@
 package GUVITASK.GTask4.Exception;
 
-
+/*
+Q2. Create a class Voter(voterId, name, age) with parameterized constructor. The
+parameterized constructor should throw a checked exception if age is less than 18.
+The message of exception is "invalid age for voter*
+*/
 import java.util.Scanner;
 
 public class Voter {
