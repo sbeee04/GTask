@@ -1,3 +1,11 @@
+/*
+I'm not able to copy the data from the link. 
+so kindly open this link for viewing the problem statement.
+https://docs.google.com/document/d/13SkGN7Sdic1EoYLk1GWjXBU5UzOEQ6WLCo84j7p5pHk/edit
+
+*/
+
+
 -- Create the database Gtasks
 create database Gtasks;
 
