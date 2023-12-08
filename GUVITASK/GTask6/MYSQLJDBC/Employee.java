@@ -1,5 +1,12 @@
 package GUVITASK.GTask6.MYSQLJDBC;
 
+/*
+I'm not able to copy the data from the link. 
+so kindly open this link for viewing the problem statement.
+https://docs.google.com/document/d/13SkGN7Sdic1EoYLk1GWjXBU5UzOEQ6WLCo84j7p5pHk/edit
+
+*/
+
 // Employee class representing attributes of an employee
 public class Employee {
 
