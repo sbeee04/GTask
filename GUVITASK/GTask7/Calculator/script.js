@@ -22,7 +22,8 @@ inputField.addEventListener('keypress', function(event) {
               document.getElementById("result").value+= val 
         } 
 
-        function myfunc(event){
+        //Function to check the key press
+           function myfunc(event){
             if (event.key == '(' || event.key == ')' || event.key == '0' || 
                 event.key == '1' || event.key == '2' || event.key == '3' || 
                 event.key == '4' || event.key == '5' || event.key == '6' || 
@@ -43,6 +44,7 @@ inputField.addEventListener('keypress', function(event) {
             }
         }
 
+ // function to perform operations & display the result in the output screen
         function equal(){
             let x = document.getElementById("result").value
             let y = eval(x)
