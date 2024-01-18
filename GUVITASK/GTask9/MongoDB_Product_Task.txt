@@ -1,3 +1,7 @@
+
+Url for the Product Data
+https://github.com/rvsp/database/blob/master/mongodb/product.json
+
 [
     {
         "id": "1",
@@ -227,3 +231,5 @@ Ans:db.Product.find({$or:[{product_color:"indigo"},{product_price:492.00}]});
 
 10 Delete the products which product price value are same
 Ans: db.Product.find({product_price:36.00})
+
+
