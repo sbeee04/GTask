@@ -1,0 +1,21 @@
+[{
+  "_id": 501,
+  "ComapnyName": "Zoho",
+  "date": "2023-10-01",
+  "location": "Guduvancherry",
+  "user_id": 100
+},
+{
+  "_id": 502,
+  "ComapnyName": "TechIndia",
+  "date": "2023-10-16",
+  "location": "Coimbatore",
+  "user_id": 100
+},
+{
+  "_id": 503,
+  "ComapnyName": "Techmango",
+  "date": "2023-12-10",
+  "location": "Madurai",
+  "user_id": 100
+}]

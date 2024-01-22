@@ -1,0 +1,54 @@
+[{
+  "_id": 601,
+  "name": "Lavish",
+  "email": "lavish@gmail.com",
+  "expertise": "Full stack developement",
+  "mentee's": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ]
+},
+{
+  "_id": 602,
+  "name": "Thirumal",
+  "email": "Thirumal@gmail.com",
+  "expertise": "Full stack developement",
+  "mentee's": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+},
+{
+  "_id": 603,
+  "name": "Kumaran",
+  "email": "Kumar@gmail.com",
+  "expertise": "Automation testing",
+  "mentee's": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}]

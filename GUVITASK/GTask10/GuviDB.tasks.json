@@ -1,0 +1,32 @@
+[{
+  "_id": 401,
+  "user_id": 1,
+  "topic_id": 301,
+  "task_description": "Complete Module1 task",
+  "due_date": "2023-10-19",
+  "status": "completed"
+},
+{
+  "_id": 402,
+  "user_id": 1,
+  "topic_id": 302,
+  "task_description": "Complete Module2 task",
+  "due_date": "2023-10-29",
+  "status": "completed"
+},
+{
+  "_id": 403,
+  "user_id": 2,
+  "topic_id": 303,
+  "task_description": "Complete Module3 task",
+  "due_date": "2023-11-29",
+  "status": "pending"
+},
+{
+  "_id": 404,
+  "user_id": 1,
+  "topic_id": 304,
+  "task_description": "Complete Module4 task",
+  "due_date": "2023-12-19",
+  "status": "Pending"
+}]

@@ -1,0 +1,92 @@
+[{
+  "_id": 101,
+  "title": "StringPalindrom",
+  "difficulty": "Beginner",
+  "language": "Python",
+  "solvedByUsers": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": 102,
+  "title": "Swap thw two numbers",
+  "difficulty": "Basic",
+  "language": "Java",
+  "solvedByUsers": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": 103,
+  "title": "LinkedListTraversal",
+  "difficulty": "Intermediate",
+  "language": "C++",
+  "solvedByUsers": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": 104,
+  "title": "BinarySearchTree",
+  "difficulty": "Advanced",
+  "language": "JavaScript",
+  "solvedByUsers": [
+    1,
+    3
+  ]
+},
+{
+  "_id": 105,
+  "title": "GraphTraversal",
+  "difficulty": "Advanced",
+  "language": "Python",
+  "solvedByUsers": [
+    2,
+    3
+  ]
+},
+{
+  "_id": 106,
+  "title": "DynamicProgramming",
+  "difficulty": "Expert",
+  "language": "C",
+  "solvedByUsers": [
+    1,
+    2
+  ]
+},
+{
+  "_id": 107,
+  "title": "HashingTechniques",
+  "difficulty": "Expert",
+  "language": "Java"
+},
+{
+  "_id": 108,
+  "title": "GreedyAlgorithm",
+  "difficulty": "Beginner",
+  "language": "Python",
+  "solvedByUsers": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": 109,
+  "title": "SortingMethods",
+  "difficulty": "Intermediate",
+  "language": "JavaScript"
+},
+{
+  "_id": 110,
+  "title": "BitManipulation",
+  "difficulty": "Advanced",
+  "language": "C++"
+}]

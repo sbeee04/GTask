@@ -1,0 +1,24 @@
+[{
+  "_id": 301,
+  "title": "CoreJava",
+  "description": "Introduction to CoreJava",
+  "date": "2023-10-12"
+},
+{
+  "_id": 302,
+  "title": "Java8",
+  "description": "Introduction to Java8",
+  "date": "2023-10-22"
+},
+{
+  "_id": 303,
+  "title": "GIT&GITHUB",
+  "description": "Handling the GIT",
+  "date": "2023-11-28"
+},
+{
+  "_id": 304,
+  "title": "MongoDB",
+  "description": "Introduction to MongoDB",
+  "date": "2024-01-12"
+}]
