@@ -3,6 +3,8 @@
 Employee Management System using Spring Boot, Thymeleaf and MySQL database.
 
 # How it looks
+![image](https://github.com/sbeee04/GTask/assets/69748917/c094d657-91ce-4289-9924-5c480f5d79fa)
+
 
 
 
