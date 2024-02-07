@@ -4,15 +4,10 @@ Employee Management System using Spring Boot, Thymeleaf and MySQL database.
 
 # How it looks
 
-![image](https://github.com/sbeee04/GTask/assets/69748917/47430b9d-4269-4e1c-8d41-a044c3332480)
 
-![image](https://github.com/sbeee04/GTask/assets/69748917/0d265322-2f45-42f4-afb8-eca89109777a)
+https://github.com/sbeee04/GTask/assets/69748917/ed53adc6-6e0e-4a32-8771-afed2fd39905
 
-![image](https://github.com/sbeee04/GTask/assets/69748917/4137c22c-9655-4de3-bce1-28204cf55b56)
 
-![image](https://github.com/sbeee04/GTask/assets/69748917/6aabd662-8b5d-4fdd-bfdb-e737d41e301c)
-
-![image](https://github.com/sbeee04/GTask/assets/69748917/7ed9981e-cdfb-42a5-8ed2-cb8f2511da9f)
 
 
 
