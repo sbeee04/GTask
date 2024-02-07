@@ -18,3 +18,8 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 
     }
 }
+/*
+for the learning purpose I give here the username and password
+Username = Sathish
+Password = 12345
+*/
