@@ -33,7 +33,7 @@ public class CustomSuccessHandler implements AuthenticationSuccessHandler {
 			}
 		}
 		if (redirectUrl == null) {
-			redirectUrl = "/login";
+			redirectUrl = "/dashboard";
 		}
 		new DefaultRedirectStrategy().sendRedirect(request, response, redirectUrl);
 	}
