@@ -1,13 +1,65 @@
-# Online Bus Ticket Booking Project
+# Payanam, Keep Calm and Travel ON  
 
 Online Bus Ticket Booking using Spring Boot, Thymeleaf and MySQL database.
 
 # How it looks
 
+# From Admin Side
+
+
+1. Registration Page
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/77fcd1bf-e6e4-4fd8-aab8-59bffef9c004)
+
+2. Login Page
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/6827d916-08ab-49a8-8d7d-6de95cc198ab)
+
+3. AdminScreen
+Able to add bus and book bus if the admin also wants to travel
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/8e83e489-7c2c-4d78-8bff-0b6ecfa1e68e)
+
+
+# From User Side
+
+1. Registration Page
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/a016cadb-cd8e-461d-9986-bcfd41bf493d)
+
+2. Login Page
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/5d628f00-0a06-4c68-ad45-a7ef1b862a4a)
+
+3. Bus Terminal Dashboard to find and book a bus
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/10cb526e-20b2-4299-8108-7b0f3f7769e0)
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/376f8aef-3fbb-4176-9eae-77de2471a798)
+
+4. User Booking Details Page
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/95e658ed-d0b5-4c5a-9ef1-2198ae50b8a1)
+
+5. clcik generate button if you need a soft copy of bus ticket
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/04f62050-833f-449f-969a-114a5e26a328)
+
+6. click cancel if you want to cancel your ride
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/192e6a06-c687-4fe8-b260-0f67f7a40353)
 
 
 
+# From Mysql Payanamdb 
 
+![image](https://github.com/sbeee04/GTask/assets/69748917/08d60c41-16f9-4940-b227-99de51843973)
+
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/91ce49b4-ece2-450f-a9fc-95af9668368b)
+
+
+![image](https://github.com/sbeee04/GTask/assets/69748917/9acc9a82-3471-4953-99c0-8293221690ba)
 
 
 
@@ -68,7 +120,9 @@ The application will start on the configured port (default is 8080).
 # Refernces
 * https://www.geeksforgeeks.org/spring-security-form-based-authentication/
 * https://www.redbus.in/
-* 
+* https://start.spring.io/
+* https://aws.amazon.com/blogs/business-intelligence/a-dive-into-redbuss-data-platform-and-how-they-used-amazon-quicksight-to-accelerate-business-insights/#:~:text=redBus%20uses%20Amazon%20Redshift%20to,aggregated%20data%20from%20Apache%20Druid.
+* https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html
 
 
 # Thank YOU
