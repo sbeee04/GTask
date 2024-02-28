@@ -56,7 +56,18 @@ class AppointmentApplicationTests {
 		assertEquals("register", result); // Assuming "register" is the expected view name
 	}
 
+	@Test
+	void testRegistered() {
+		// Arrange
+		Person person = new Person();
+		when(personRepository.save(any())).thenReturn(person);
 
-	
+		// Act
+		String result = controllerClass.registered(person);
+
+		// Assert
+		assertEquals("redirect:/", result); // Assuming "redirect:/" is the expected redirect URL
+		verify(personRepository, times(1)).save(any(Person.class));
+	}
 
 }
