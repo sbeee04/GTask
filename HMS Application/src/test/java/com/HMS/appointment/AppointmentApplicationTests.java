@@ -1,14 +1,20 @@
 package com.HMS.appointment;
 
 import com.HMS.appointment.Appointment_storage.AppointmentRepository;
+import com.HMS.appointment.Doctor_storage.DoctorRepository;
 import com.HMS.appointment.Person_storage.Person;
 import com.HMS.appointment.Person_storage.PersonRepository;
+import com.HMS.appointment.Prescription.PrescriptionRepository;
+import com.HMS.appointment.controller.ControllerClass;
+import io.swagger.models.Model;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.context.SpringBootTest;
+
+import javax.servlet.http.HttpSession;
 
 import static org.mockito.Mockito.*;
 import static org.junit.jupiter.api.Assertions.*;
@@ -17,28 +23,40 @@ import static org.junit.jupiter.api.Assertions.*;
 class AppointmentApplicationTests {
 
 	@Mock
-	private PersonRepository patientRepository;
+	private PersonRepository personRepository;
+
+	@Mock
+	private DoctorRepository doctorRepository;
 
 	@Mock
 	private AppointmentRepository appointmentRepository;
 
+	@Mock
+	private PrescriptionRepository prescriptionRepository;
 
+	@InjectMocks
+	private ControllerClass controllerClass;
 
-	@BeforeEach
-	public void setUp() {
-		MockitoAnnotations.initMocks(this);
-	}
+	@Mock
+	private HttpSession session;
+
+	@Mock
+	private Model model;
 
 	@Test
-	public void testRegisterPatient() {
-		Person patient = new Person("john@example.com", "password");
+	void testRegister() {
+		// Arrange (Mocking dependencies)
+		PersonRepository personRepository = mock(PersonRepository.class);
+		ControllerClass controller = new ControllerClass();
 
-		when(patientRepository.save(patient)).thenReturn(patient);
+		// Act (Call the method under test)
+		String result = controller.register();
 
-		//Person savedPatient = patientService.registerPatient(patient);
-
-		assertNotNull(patient);
-		assertEquals(patient.getEmail(), patient.getEmail());
+		// Assert (Verify the result)
+		assertEquals("register", result); // Assuming "register" is the expected view name
 	}
+
+
+	
 
 }
